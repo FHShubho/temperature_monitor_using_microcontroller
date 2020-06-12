@@ -8,6 +8,7 @@
 
 - [Block Diagram](#block-diagram)
 - [Required Components](#required-components)
+- [Software](#software)
 - [Circuit Diagram](#circuit-diagram)
 - [Code](#code)
 
@@ -53,6 +54,14 @@
 
     
 
+#### Software
+
+- [mikroC](https://www.mikroe.com/mikroc-pic)
+- [Proteus](https://www.labcenter.com/)
+- [PICkit 3 Programmer](https://microchipdeveloper.com/pickit3:scripttool)
+
+
+
 #### Circuit Diagram
 
 ![Circuit Diagram in Proteus](https://i.ibb.co/wrq4PvZ/Circuit-Diagram.png)
@@ -64,3 +73,5 @@
 [C Code](https://github.com/FHShubho/temperature_monitor_using_microcontroller/blob/master/TM.c )
 
 [Compiled Hex file](https://github.com/FHShubho/temperature_monitor_using_microcontroller/blob/master/TM.hex)
+
+[Proteus Simulation file](https://github.com/FHShubho/temperature_monitor_using_microcontroller/blob/master/TM.pdsprj)
